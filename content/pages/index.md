@@ -79,6 +79,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
+        align: right
       - title: Bio estimulación con factor de crecimiento
         subtitle: Medicina regenerativa aplicada
         content: >
