@@ -98,6 +98,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
+        video_embed_html: 'https://www.youtube.com/watch?v=FnDxu5fiqNQ'
       - title: Control de la flacidez cutánea con Hilos PDO
         subtitle: Hilos de avanzada tecnología reabsorbibles
         content: >
