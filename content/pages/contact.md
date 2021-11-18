@@ -11,22 +11,24 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
+    content: >
       ## Pricing
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
+      Los mas competitivos del mercado
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
 
-      ### Terms
+      ### Proposito
 
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+
+      Brindarle una atención rápida y efectiva con los mejores estándares de
+      calidad
+
+
+      ### Términos
+
+
+      Los servicios ofrecidos incluyen valoración médica y control posterior
     content_align: left
     form_position: left
     form_width: fifty
