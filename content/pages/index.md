@@ -99,7 +99,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Control de la flacidez cutánea con Hilos PDO
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Hilos de avanzada tecnología reabsorbibles
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
