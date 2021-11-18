@@ -34,7 +34,7 @@ sections:
       - image: /images/simildiet-d6aa1804.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/dermalogica.png
         image_alt: Logo 3
         image_align: center
       - image: /images/vlift.png
