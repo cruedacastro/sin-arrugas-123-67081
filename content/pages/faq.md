@@ -26,13 +26,13 @@ sections:
           menores.
       - title: Cuales son los procedimientos mas frecuentes para lucir mas joven?
         content: |
-          ## Eliminar líneas dinámicas con toxina 
+          *   Eliminar líneas dinámicas con toxina
 
-          ## Disminuir lineas estáticas con acido hialurónico
+          *   Disminuir lineas estáticas con acido hialurónico
 
-          ## Detener o revertir flacideces con Hilos Pdo
+          *   Detener o revertir flacideces con Hilos Pdo
 
-          ## Eliminar o minimizar alteraciones de  de la pigmentación cutánea
+          *   Eliminar o minimizar alteraciones de  de la pigmentación cutánea
 
           ##
       - title: How do you base your pricing?
