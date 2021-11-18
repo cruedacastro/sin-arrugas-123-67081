@@ -45,7 +45,7 @@ sections:
         image_align: center
       - image_alt: Logo 6
         image_align: center
-      - image: /images/mesoestetic.png
+      - image: /images/neuronox.png
         image_alt: Logo 7
         image_align: center
       - image: /images/endoret logo.png
