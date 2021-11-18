@@ -57,7 +57,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Mis servicios
-    subtitle: What I do
+    subtitle: Procedimientos Médicos
     features:
       - title: Eliminar líneas de expresión
         subtitle: 'Dinámicas, Estáticas'
