@@ -210,7 +210,7 @@ sections:
         name: message
         label: Message
         default_value: >-
-          Escriba su mensaje y si desea que le llamemos puede dejar su numero y
+          Escriba su mensaje y si desea que le llamemos puede dejar su número y
           le contactamos
       - input_type: checkbox
         name: consent
