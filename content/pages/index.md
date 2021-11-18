@@ -100,10 +100,11 @@ sections:
         media_width: sixty
       - title: Control de la flacidez cutánea con Hilos PDO
         subtitle: Hilos de avanzada tecnología reabsorbibles
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Redensificar la dérmis es un procedimiento altamente efectivo en el
+          control de la flacidez cutánea, aplicables en cualquier area corporal
+          que se requiera, en el rostro soon ideales para el control de la
+          flacidez del tercio inferior.
         actions:
           - label: See Past Work
             url: /faq
