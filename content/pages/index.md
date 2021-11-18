@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hola, te presntamos el servicio de medicina estética de urgencia'
+    title: 'Hola, te presentamos el servicio de medicina estética de "urgencia"'
     subtitle: >-
       Cualquier día nos vemos al espejo y sorpresa! nos vemos anticipadamente
       envejecidos ... Calma, hoy tenemos recursos para devolver el aspecto jóven
