@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://sin-arrugas-123-67081.netlify.app"
+    "domain": "https://sin-arrugas-123-67081.netlify.app",
+    "favicon": "/images/BioPlazmar-04-05f0b76f.png"
 }
