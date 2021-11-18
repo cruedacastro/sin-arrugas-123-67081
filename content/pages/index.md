@@ -81,10 +81,12 @@ sections:
         media_width: sixty
       - title: Bio estimulación con factor de crecimiento
         subtitle: Medicina regenerativa aplicada
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Endoret® es tecnología para la obtención de factores de crecimiento,
+          aplicados en la dermis promueven la revitalización cutánea y en
+          general estimula el tejido para recuperar la función, tiene
+          aplicaciones en Estética, ortopedia, odontología y en general donde se
+          requiera rehabilitar un tejido
         actions:
           - label: Learn More
             url: /about
