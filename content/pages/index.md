@@ -48,7 +48,7 @@ sections:
       - image: /images/mesoestetic.png
         image_alt: Logo 7
         image_align: center
-      - image: images/logo-8.svg
+      - image: /images/endoret logo.png
         image_alt: Logo 8
         image_align: center
     grid_cols: four
