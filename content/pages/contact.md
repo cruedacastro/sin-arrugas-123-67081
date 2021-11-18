@@ -5,7 +5,7 @@ sections:
     title: Contacto
     subtitle: >-
       De acuerdo con la filosofía de la atención "Urgente" haremos lo necesario
-      para agendarle el día que a UD le convenga
+      para agendarle el día que a UD le convenga.
     align: center
     padding_top: medium
     padding_bottom: medium
