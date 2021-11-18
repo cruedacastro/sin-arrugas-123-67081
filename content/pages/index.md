@@ -31,7 +31,7 @@ sections:
       - image: /images/mesoestetic.png
         image_alt: Logo 1
         image_align: center
-      - image: /images/simildiet-d6aa1804.png
+      - image: /images/logo.png
         image_alt: Logo 2
         image_align: center
       - image: /images/dermalogica.png
