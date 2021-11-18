@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: Contacto
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      De acuerdo con la filosofía de la atención "Urgente" haremos lo necesario
+      para agendarle el día que a UD le convenga
     align: center
     padding_top: medium
     padding_bottom: medium
