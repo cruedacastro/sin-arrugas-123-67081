@@ -25,6 +25,16 @@ sections:
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
       - title: Cuales son los procedimientos mas frecuentes para lucir mas joven?
+        content: |
+          ## Eliminar líneas dinámicas con toxina 
+
+          ## Disminuir lineas estáticas con acido hialurónico
+
+          ## Detener o revertir flacideces con Hilos Pdo
+
+          ## Eliminar o minimizar alteraciones de  de la pigmentación cutánea
+
+          ##
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
