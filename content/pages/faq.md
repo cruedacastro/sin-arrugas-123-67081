@@ -10,12 +10,20 @@ sections:
   - type: grid_section
     grid_items:
       - title: Son dolorosos los procedimientos?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          Cada persona tiene un umbral diferente de tolerancia al dolor, para
+          asegurar que los procedimientos sean cómodos utilizamos anestesia
+          tópica y en algunos casos regional.
+
+
+          Cuando utilizamos anestesia tópica debemos esperar desde el momento de
+          aplicación  del anestésico al momento de iniciar el procedimiento
+          aproximadamente 60 min. para que el efecto sea total y el
+          procedimiento sea muy bien tolerado.
+
+
+          Si la opción es el uso de anestesia regional los tiempos de espera son
+          menores.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
