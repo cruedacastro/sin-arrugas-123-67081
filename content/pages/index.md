@@ -56,7 +56,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Mis servicios
+    title: Servicios
     subtitle: Procedimientos Médicos
     features:
       - title: Eliminar líneas de expresión
