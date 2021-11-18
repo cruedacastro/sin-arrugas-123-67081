@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Tecnologías usadas
-    subtitle: Who I work with
+    subtitle: Dispositivos y biomateriales de última generación
     align: center
     grid_items:
       - image: images/logo-1.svg
