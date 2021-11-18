@@ -12,7 +12,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## Pricing
+      ### Precios
 
 
       Los mas competitivos del mercado
