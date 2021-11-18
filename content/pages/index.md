@@ -60,7 +60,7 @@ sections:
     subtitle: Procedimientos Médicos
     features:
       - title: Eliminar líneas de expresión
-        subtitle: 'Dinámicas, Estáticas'
+        subtitle: Dinámicas y Estáticas
         content: >
           Con el uso de toxina botulínica controlamos expresiones no deseadas
           que reflejan enojo o simplemente nos hacen lucir viejos
