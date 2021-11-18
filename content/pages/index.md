@@ -5,7 +5,8 @@ sections:
     title: 'Hola, te presntamos el servicio de medicina estética de urgencia'
     subtitle: >-
       Cualquier día nos vemos al espejo y sorpresa! nos vemos anticipadamente
-      envejecidos ...
+      envejecidos ... Calma, hoy tenemos recursos para devolver el aspecto jóven
+      al rostro.
     actions:
       - label: Contact Me
         url: /contact
