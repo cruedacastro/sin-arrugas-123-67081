@@ -24,7 +24,7 @@ sections:
 
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
-      - title: Can you manage our social media?
+      - title: Cuales son los procedimientos mas frecuentes para lucir mas jóven?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
