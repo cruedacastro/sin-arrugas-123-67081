@@ -40,7 +40,7 @@ sections:
       - image: /images/vlift.png
         image_alt: Logo 4
         image_align: center
-      - image: /images/logo.png
+      - image: /images/hialuronico.png
         image_alt: Logo 5
         image_align: center
       - image_alt: Logo 6
