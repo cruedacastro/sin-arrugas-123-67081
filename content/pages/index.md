@@ -69,7 +69,7 @@ sections:
           Con Biomateriales avanzados ademas recuperamos la calidad de la piel y
           corregimos inesteticismos no deseados
         actions:
-          - label: Ver casos
+          - label: Preguntas frecuentes
             url: /faq
             style: primary
             has_icon: true
