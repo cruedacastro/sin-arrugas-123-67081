@@ -215,8 +215,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Al diligenciar este formulario acepto que me contacten para mas
-          información
+          Al diligenciar este formulario acepto que me contacten para recibir
+          mas información
         is_required: true
     submit_label: Send Message
     align_vert: top
