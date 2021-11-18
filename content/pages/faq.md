@@ -25,11 +25,15 @@ sections:
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
       - title: Cuales son los procedimientos mas frecuentes para lucir mas joven?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          Con el paso del tiempo aparecen cambios que aunque son predecibles
+          ocurren en diferentes tiempos dependiendo de las particularidades de
+          cada paciente, pero de modo general primero aparecen las líneas de
+          expresión dinámicas a temprana edad y esta movilidad condiciona la
+          aparición de líneas estáticas ("arrugas permanentes"), si la
+          exposición solar o a radiación luminosa ha sido intensa y la piel es
+          clara es probable que los cambios de coloración y uniformidad de la
+          piel sean los siguientes cambios
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
