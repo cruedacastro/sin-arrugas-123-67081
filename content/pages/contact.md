@@ -18,7 +18,7 @@ sections:
       Los mas competitivos del mercado
 
 
-      ### Proposito
+      ### Propósito
 
 
       Brindarle una atención rápida y efectiva con los mejores estándares de
