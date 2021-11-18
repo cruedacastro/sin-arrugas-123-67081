@@ -123,9 +123,9 @@ sections:
     title: Testimonios
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          De parecer enfadado todo el dia a parecer feliz todo el dia, un
+          alivio!
 
 
           **Hanson Deck,** *App Developer, Studio*
