@@ -59,7 +59,7 @@ sections:
     title: Mis servicios
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Eliminar líneas de expresión
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
