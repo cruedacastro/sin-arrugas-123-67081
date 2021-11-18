@@ -8,7 +8,7 @@ sections:
       envejecidos ... Calma, hoy tenemos recursos para devolver el aspecto jóven
       al rostro.
     actions:
-      - label: Contact Me
+      - label: Contacto
         url: /contact
         style: primary
     image: /images/IMG_2104.JPG
