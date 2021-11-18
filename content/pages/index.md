@@ -209,7 +209,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Escriba su mensaje y si desea que lellamemos deje
+        default_value: Escriba su mensaje y si desea que le
       - input_type: checkbox
         name: consent
         label: >-
