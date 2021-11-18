@@ -45,7 +45,7 @@ sections:
         image_align: center
       - image_alt: Logo 6
         image_align: center
-        image: /images/logo-e076939a.png
+        image: /images/simildiet.png
       - image: /images/neuronox.png
         image_alt: Logo 7
         image_align: center
