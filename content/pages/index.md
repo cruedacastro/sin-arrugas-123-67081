@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hola, te presntamos el servicio de medicina estética de urgencia'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Cualquier día nos vemos al espejo y sorpresa! nos vemos anticipadamente
+      envejecidos ...
     actions:
       - label: Contact Me
         url: /contact
