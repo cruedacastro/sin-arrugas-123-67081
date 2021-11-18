@@ -9,7 +9,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
+      - title: Son dolorosos los procedimientos?
         content: >-
           It's important to me to fully understand your business and what you're
           trying to achieve. I will start with an interview and follow up with a
