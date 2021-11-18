@@ -122,6 +122,12 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/WmaCG4lfEf0?controls=0&amp;start=20"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     background_color: none
