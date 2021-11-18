@@ -61,10 +61,13 @@ sections:
     features:
       - title: Eliminar líneas de expresión
         subtitle: 'Dinámicas, Estáticas'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Con el uso de toxina botulínica controlamos expresiones no deseadas
+          que reflejan enojo o simplemente nos hacen lucir viejos
+
+
+          Con Biomateriales avanzados ademas recuperamos la calidad de la piel y
+          corregimos inesteticismos no deseados
         actions:
           - label: See Writing Samples
             url: /faq
