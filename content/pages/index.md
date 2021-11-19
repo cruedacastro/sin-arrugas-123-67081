@@ -141,7 +141,7 @@ sections:
 
 
           **Marlon Pérez,** 
-        image: images/hanson-deck.png
+        image: /images/55963784_2301861263467290_240080648847491072_n.jpg
         image_position: left
         image_width: twenty-five
       - content: |
