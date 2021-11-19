@@ -2,7 +2,12 @@
 title: Quien soy
 seo:
   title: Quien soy
-  description: "\nMédico Cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U. de los Andes)\nDirector de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.\nMaster alianza en coordinación de trasplantes de células y órganos (ONT Madrid España)\nPrimer coordinador de trasplante de la secretaria de salud en Bogotá y desde entonces dedicado la medicina regenerativa.\nDirector médico del Instituto de regeneración tisular en Bogotá.\nDiploma\_ de medicina estética\_ del IPPC - UNAM (Mexico) desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.\n\n\nCoordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia\n"
+  description: >
+
+    Médico Cirujano de la Universidad Nacional de Colombia (Administrador
+    Hospitalario y Alta Gerencia U. de los Andes)
+
+    Medico estético UNAM México
   extra:
     - name: 'og:type'
       value: website
