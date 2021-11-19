@@ -24,7 +24,7 @@ sections:
 
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
-      - title: Cuales son los procedimientos mas frecuentes para lucir mas joven?
+      - title: Cuales son los procedimientos mas frecuentes para lucir mas jóven?
         content: |
           *   Eliminar líneas dinámicas con toxina
 
