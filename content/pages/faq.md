@@ -13,7 +13,7 @@ sections:
         content: >
           Cada persona tiene un umbral diferente de tolerancia al dolor, para
           asegurar que los procedimientos sean cómodos utilizamos anestesia
-          tópica y en algunos casos regional.
+          tópica y en algunos casos anestesia regional (inyección)
 
 
           Cuando utilizamos anestesia tópica debemos esperar desde el momento de
