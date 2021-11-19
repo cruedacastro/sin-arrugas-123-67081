@@ -1,7 +1,7 @@
 ---
 title: Quien soy
 seo:
-  title: About
+  title: Quien soy
   description: This is the about page
   extra:
     - name: 'og:type'
