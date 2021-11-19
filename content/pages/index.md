@@ -201,12 +201,6 @@ sections:
         label: Email
         default_value: Su email
         is_required: true
-      - input_type: tel
-        name: Opcional teléfono
-        label: Teléfono
-        default_value: Teléfono
-        options: []
-        is_required: false
       - input_type: textarea
         name: message
         label: Message
