@@ -136,11 +136,11 @@ sections:
     subtitle: Que dicen mis pacientes
     grid_items:
       - content: >
-          De parecer enfadado todo el dia a parecer feliz todo el dia, un
-          alivio!
+          De parecer enfadado todo el día a parecer feliz todo el día, una
+          terapia !
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Marlon Pérez,** 
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
