@@ -89,7 +89,7 @@ sections:
           aplicaciones en Estética, ortopedia, odontología y en general donde se
           requiera rehabilitar un tejido
         actions:
-          - label: Learn More
+          - label: Preguntas
             url: /about
             style: secondary
             has_icon: true
