@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: Perfil
     - name: 'twitter:description'
       value: >-
         Médico Cirujano de la Universidad Nacional de Colombia (Administrador
