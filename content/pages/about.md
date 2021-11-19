@@ -32,7 +32,7 @@ layout: page
 
 # Carlos Mauricio Rueda 
 
-## &#xA;Medico cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U de los Andes)
+## &#xA;Médico Cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U. de los Andes)
 
 ###### Director de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.
 
