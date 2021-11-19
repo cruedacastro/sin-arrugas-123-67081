@@ -16,7 +16,11 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: >-
+        Médico Cirujano de la Universidad Nacional de Colombia (Administrador
+        Hospitalario y Alta Gerencia U. de los Andes)
+
+        Medico estético UNAM México
       keyName: property
     - name: 'og:image'
       value: /images/BioPlazmar-02.png
