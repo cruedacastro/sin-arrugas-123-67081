@@ -133,7 +133,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonios
-    subtitle: What My Clients Say
+    subtitle: Que dicen mis pacientes
     grid_items:
       - content: >
           De parecer enfadado todo el dia a parecer feliz todo el dia, un
