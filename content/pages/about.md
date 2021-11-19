@@ -28,19 +28,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+![](/images/foto.jpg)
 
-![A woman using a laptop](/images/about.jpg)
+# Carlos Mauricio Rueda 
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+## &#xA;Medico cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U de los Andes)
 
-## Credentials
+###### Director de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+###### Master alianza en coordinación de trasplantes de células y órganos (ONT Madrid España)
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+###### Primer coordinador de trasplante de la secretaria de salud en Bogotá y desde entonces dedicado la medicina regenerativa.
 
+###### Director médico del Instituto de regeneración tisular en Bogotá.
 
+###### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012 como médico tratante y asesor de clínicas de Estética y regeneración tisular en Ciudad de México&#xA;
 
-## Writing for Action
-
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+###### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia
