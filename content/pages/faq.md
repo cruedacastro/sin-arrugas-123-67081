@@ -63,7 +63,7 @@ sections:
           2ml = $ 450.000 sesión
       - title: Como puedo pagar?
         content: |
-          *   Se acepta efectivo
+          *   Efectivo
 
           *   Tarjetas Débito y Crédito
       - title: How fast can we get started?
