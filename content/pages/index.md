@@ -201,6 +201,12 @@ sections:
         label: Email
         default_value: Su email
         is_required: true
+      - input_type: tel
+        name: Opcional teléfono
+        label: Teléfono
+        default_value: Teléfono
+        options: []
+        is_required: false
       - input_type: textarea
         name: message
         label: Message
@@ -213,12 +219,6 @@ sections:
           Al diligenciar este formulario acepto que me contacten para recibir
           mas información
         is_required: true
-      - input_type: tel
-        name: Opcional teléfono
-        label: Teléfono
-        default_value: Teléfono
-        options: []
-        is_required: false
     submit_label: Enviar
     align_vert: top
     padding_top: medium
