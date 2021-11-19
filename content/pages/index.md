@@ -147,9 +147,9 @@ sections:
       - content: |
           Los procedimientos tambien convienen a los jóvenes, hay que prevenir
 
-          **Juan Pablo Pérez,** *Actor*
+          **Juan Pablo Díaz,** *Actor*
 
-          **
+          \*\*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
