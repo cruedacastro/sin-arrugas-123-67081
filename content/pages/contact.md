@@ -45,7 +45,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Su correo elect
+        default_value: Su correo electrónico
         is_required: true
       - input_type: textarea
         name: message
