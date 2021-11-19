@@ -158,7 +158,7 @@ sections:
           resultado muy durable
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Eleanor Carr,** Empresaria
         image: /images/257784998_1074683043296763_6570583737317872938_n.jpg
         image_position: left
         image_width: twenty-five
