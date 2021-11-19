@@ -216,7 +216,7 @@ sections:
           Al diligenciar este formulario acepto que me contacten para recibir
           mas información
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
