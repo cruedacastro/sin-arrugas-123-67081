@@ -81,7 +81,7 @@ sections:
           actividades de los pacientes, deportistas o entrenamientos agotadores
           asi como la exposición a temperaturas altas (sauna, turco) pueden
           acelerar el proceso de degradación de los biomateriales utilizados,
-          existen unas duraciones promedio para los tratamientos mas ususles:
+          existen unas duraciones promedio para los tratamientos mas usuales:
 
 
           *   Toxina botulinica duración 150 días y gradual disminución del
