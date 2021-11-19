@@ -19,7 +19,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/BioPlazmar-02.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
