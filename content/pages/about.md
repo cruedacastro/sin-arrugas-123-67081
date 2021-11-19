@@ -42,6 +42,6 @@ layout: page
 
 ###### Director médico del Instituto de regeneración tisular en Bogotá.
 
-###### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012 como médico tratante y asesor de clínicas de Estética y regeneración tisular en Ciudad de México&#xA;
+###### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.&#xA;
 
 ###### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia
