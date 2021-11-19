@@ -85,14 +85,18 @@ sections:
 
 
           *   Toxina botulinica duración 150 días y gradual disminución del
-          efecto 
+          efecto
 
 
           *   Acido Hialurónico 300 días y gradual disminución
 
 
           *   Hilos de polidioxanona efecto por + 300 días la reabsorción es
-          temprana pero el efecto es duradero y acumulativo 
+          temprana pero el efecto es duradero y acumulativo
+
+
+          *   Bioestimulación Endoret o Hidratación sknibooster luego de tres
+          sesiones con intervalo de un mes el efecto 360 días
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
