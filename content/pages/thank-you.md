@@ -7,7 +7,7 @@ sections:
       Gracias por contactarme, tan pronto como sea posible le contestaré sus
       inquietudes
     actions:
-      - label: Back to homepage
+      - label: Página principal
         url: /
         style: primary
         has_icon: true
