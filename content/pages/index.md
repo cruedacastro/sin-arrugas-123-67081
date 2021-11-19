@@ -216,6 +216,12 @@ sections:
           Al diligenciar este formulario acepto que me contacten para recibir
           mas información
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Enviar
     align_vert: top
     padding_top: medium
