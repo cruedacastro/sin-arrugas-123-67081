@@ -162,12 +162,10 @@ sections:
         image: /images/257784998_1074683043296763_6570583737317872938_n.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: |
+          Los hilos tienen un resultado muy deseable, muy recomendables
 
-
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Gloria Gómez,** *Web Designer, Local Business*
         image: /images/244452206_4743987678986879_1378863458279036660_n.jpg
         image_position: left
         image_width: twenty-five
