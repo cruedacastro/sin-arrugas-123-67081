@@ -67,11 +67,14 @@ sections:
 
           *   Tarjetas Débito y Crédito
       - title: Los procedimientos generan incapacidad?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: >
+          No, por tratarse de procedimientos mínimos no generan incapacidad, sin
+          embargo cada procedimiento trae asociadas algunas recomendaciones que
+          se explican al momento de diligenciar el consentimiento informado, por
+          regla general se recomienda no tener actividad física intensa el día
+          del procedimiento ni exponer el área tratada a objetos potencialmente
+          contaminados, con esos cuidados incluso se puede retornar a la
+          actividad laboral en el mismo día del procedimiento
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
