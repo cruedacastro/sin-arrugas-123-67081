@@ -218,7 +218,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Opcional teléfono
-        label: lorem-ipsum
+        label: Teléfono
         default_value: lorem-ipsum
         options: []
         is_required: false
