@@ -219,7 +219,7 @@ sections:
       - input_type: tel
         name: Opcional teléfono
         label: Teléfono
-        default_value: lorem-ipsum
+        default_value: Teléfono
         options: []
         is_required: false
     submit_label: Enviar
