@@ -144,12 +144,12 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          Los procedimientos tambien convienen a los jóvenes, hay que prevenir
 
+          **Juan Pablo Pérez,** *Actor*
 
-          **Miles Tone,** *CEO, Studio*
+          **
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
