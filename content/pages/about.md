@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: Perfil
       keyName: property
     - name: 'og:description'
       value: >-
