@@ -169,7 +169,7 @@ sections:
 
 
           **Gordon Norman,** *Web Designer, Local Business*
-        image: /images/70768377_103177021242994_7885029252583919389_n.jpg
+        image: /images/244452206_4743987678986879_1378863458279036660_n.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
