@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/foto.jpg
       relativeUrl: true
 layout: page
 ---
