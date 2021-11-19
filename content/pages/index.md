@@ -112,7 +112,7 @@ sections:
           que se requiera, en el rostro soon ideales para el control de la
           flacidez del tercio inferior.
         actions:
-          - label: See Past Work
+          - label: Preguntas Frecuentes
             url: /faq
             style: primary
             has_icon: true
