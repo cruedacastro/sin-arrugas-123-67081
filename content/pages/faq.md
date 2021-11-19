@@ -75,7 +75,7 @@ sections:
           del procedimiento ni exponer el área tratada a objetos potencialmente
           contaminados, con esos cuidados incluso se puede retornar a la
           actividad laboral en el mismo día del procedimiento
-      - title: Who handles the design?
+      - title: Cuanto dura el efecto de un tratamiento?
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
