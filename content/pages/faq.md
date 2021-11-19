@@ -35,7 +35,7 @@ sections:
           *   Eliminar o minimizar alteraciones de  de la pigmentación cutánea
 
           ##
-      - title: How do you base your pricing?
+      - title: Cuanto cuesta la valoración y el tratamiento?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
           on a retainer basis, an hour bank, or a per-project basis. Once I
