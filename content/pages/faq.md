@@ -62,11 +62,10 @@ sections:
           *   Skin booster ( hidratación intensa) Ac Hialurónico de hidratación
           2ml = $ 450.000 sesión
       - title: Como puedo pagar?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: |
+          *   Se acepta efectivo
+
+          *   Tarjetas Débito y Crédito
       - title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
