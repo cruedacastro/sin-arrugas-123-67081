@@ -36,11 +36,31 @@ sections:
 
           ##
       - title: Cuanto cuesta la valoración y el tratamiento?
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >
+          La consulta médica tiene un costo de $ 150.000, valor que va incluido
+          en el costo global de los procedimientos recomendados
+
+
+          El costo promedio de los tratamientos mas usuales es el siguiente:
+
+
+          *   Control líneas dinámicas tercio superior del rostro con toxina
+          botulínica x 50U = $ 800.000
+
+
+          *   Manejo de líneas estáticas, surcos o reposición de volúmen con Ac
+          Hialurónico x 1 ml  = $ 1.000.000 
+
+
+          *   Protocolo de Hilos forte (4) facial = $ 1.200.000
+
+
+          *   Revitalización cutánea con Endoret® (factores de Crecimiento) = $
+          350.000 sesión
+
+
+          *   Skin booster ( hidratación intensa) Ac Hialurónico de hidratación
+          2ml = $ 450.000 sesión
       - title: What if my business is technical?
         content: >-
           No product or service is too technical to learn and understand. Part
