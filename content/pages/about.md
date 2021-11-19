@@ -31,7 +31,11 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        Médico Cirujano de la Universidad Nacional de Colombia (Administrador
+        Hospitalario y Alta Gerencia U. de los Andes)
+
+        Medico estético UNAM México
     - name: 'twitter:image'
       value: /images/foto.jpg
       relativeUrl: true
