@@ -61,7 +61,7 @@ sections:
 
           *   Skin booster ( hidratación intensa) Ac Hialurónico de hidratación
           2ml = $ 450.000 sesión
-      - title: What if my business is technical?
+      - title: Como puedo pagar?
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
