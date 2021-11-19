@@ -23,7 +23,7 @@ seo:
         Medico estético UNAM México
       keyName: property
     - name: 'og:image'
-      value: /images/BioPlazmar-02.png
+      value: /images/foto.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
