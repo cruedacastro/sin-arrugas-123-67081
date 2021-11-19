@@ -76,11 +76,23 @@ sections:
           contaminados, con esos cuidados incluso se puede retornar a la
           actividad laboral en el mismo día del procedimiento
       - title: Cuanto dura el efecto de un tratamiento?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >
+          Es variable, depende de múltiples factores como la ocupación y
+          actividades de los pacientes, deportistas o entrenamientos agotadores
+          asi como la exposición a temperaturas altas (sauna, turco) pueden
+          acelerar el proceso de degradación de los biomateriales utilizados,
+          existen unas duraciones promedio para los tratamientos mas ususles:
+
+
+          *   Toxina botulinica duración 150 días y gradual disminución del
+          efecto 
+
+
+          *   Acido Hialurónico 300 días y gradual disminución
+
+
+          *   Hilos de polidioxanona efecto por + 300 días la reabsorción es
+          temprana pero el efecto es duradero y acumulativo 
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
