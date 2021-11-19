@@ -165,7 +165,7 @@ sections:
       - content: |
           Los hilos tienen un resultado muy deseable, muy recomendables
 
-          **Gloria Gómez,** *Web Designer, Local Business*
+          **Gloria Gómez,** Asesora
         image: /images/244452206_4743987678986879_1378863458279036660_n.jpg
         image_position: left
         image_width: twenty-five
