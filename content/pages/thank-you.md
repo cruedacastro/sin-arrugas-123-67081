@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Gracias!
     subtitle: >-
-      Thank you for contacting me. I will get back in touch with you soon. Have
-      a great day!
+      Gracias por contactarme, tan pronto como sea posible le contestaré sus
+      inquietudes
     actions:
       - label: Back to homepage
         url: /
