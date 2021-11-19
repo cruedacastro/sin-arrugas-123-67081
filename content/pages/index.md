@@ -90,7 +90,7 @@ sections:
           requiera rehabilitar un tejido
         actions:
           - label: Preguntas Frecuentes
-            url: /about
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
