@@ -51,7 +51,7 @@ sections:
         name: message
         label: Mensaje
         default_value: >-
-          Escriba su mensaje, si desea que lo contactemos por telefono deje su
+          Escriba su mensaje, si desea que lo contactemos por teléfono deje su
           número
       - input_type: checkbox
         name: consent
