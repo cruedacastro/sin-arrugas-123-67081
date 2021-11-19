@@ -66,7 +66,7 @@ sections:
           *   Efectivo
 
           *   Tarjetas Débito y Crédito
-      - title: How fast can we get started?
+      - title: Los procedimientos generan incapacidad?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
