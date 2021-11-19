@@ -28,20 +28,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### ![](/images/foto.jpg)
+##### ![](/images/foto.jpg)
 
-#### Carlos Mauricio Rueda 
+##### Carlos Mauricio Rueda 
 
-#### &#xA;Médico Cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U. de los Andes)
+##### &#xA;Médico Cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U. de los Andes)
 
-#### Director de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.
+##### Director de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.
 
-#### Master alianza en coordinación de trasplantes de células y órganos (ONT Madrid España)
+##### Master alianza en coordinación de trasplantes de células y órganos (ONT Madrid España)
 
-#### Primer coordinador de trasplante de la secretaria de salud en Bogotá y desde entonces dedicado la medicina regenerativa.
+##### Primer coordinador de trasplante de la secretaria de salud en Bogotá y desde entonces dedicado la medicina regenerativa.
 
-#### Director médico del Instituto de regeneración tisular en Bogotá.
+##### Director médico del Instituto de regeneración tisular en Bogotá.
 
-#### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.&#xA;
+##### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.&#xA;
 
-###### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia
+##### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia
