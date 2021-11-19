@@ -241,7 +241,9 @@ seo:
       value: Medicina Estética
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Procedimientos para mejorar la calidad de la piel, reducir "arrugas",
+        evitar o reducir la flacidez de la piel.
       keyName: property
     - name: 'og:image'
       value: /images/BioPlazmar-02.png
