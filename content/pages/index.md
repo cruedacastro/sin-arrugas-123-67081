@@ -76,7 +76,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/linea timpo.gif
-        image_alt: Feature 1 illustration
+        image_alt: Lineas expresión
         media_position: right
         media_width: sixty
         align: right
