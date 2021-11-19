@@ -50,9 +50,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje
-        default_value: >-
-          Escriba su mensaje, si desea que lo contactemos por telefono deje su
-          numero
+        default_value: 'Escriba su mensaje, si desea que lo contactemos por telefono deje su n'
       - input_type: checkbox
         name: consent
         label: >-
