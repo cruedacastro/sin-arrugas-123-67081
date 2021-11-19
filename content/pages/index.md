@@ -153,10 +153,9 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: >
+          Muy recomendable el Endoret facial, efecto natural. nada ajeno y un
+          resultado muy durable
 
 
           **Eleanor Carr,** *CTO, eCommerce Business*
