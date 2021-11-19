@@ -229,7 +229,10 @@ sections:
     background_image_opacity: 8
 seo:
   title: Medicina Estética "Urgente"
-  description: The preview of the Personal theme
+  description: >-
+    Un servicio personalizado para atender de manera prioritaria a personas que
+    quieren mejorar su estética en Bogotá, Toxina, Hilos, Ac. Hialurónico,
+    Endoret
   extra:
     - name: 'og:type'
       value: website
