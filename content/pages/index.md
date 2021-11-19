@@ -150,7 +150,7 @@ sections:
           **Juan Pablo Díaz,** *Actor*
 
           \*\*
-        image: images/miles-tone.png
+        image: /images/55944304_311185426182088_1237199736595808256_n.jpg
         image_position: left
         image_width: twenty-five
       - content: >
