@@ -72,9 +72,9 @@ sections:
           embargo cada procedimiento trae asociadas algunas recomendaciones que
           se explican al momento de diligenciar el consentimiento informado, por
           regla general se recomienda no tener actividad física intensa el día
-          del procedimiento ni exponer el área tratada a objetos potencialmente
-          contaminados, con esos cuidados incluso se puede retornar a la
-          actividad laboral en el mismo día del procedimiento
+          del procedimiento ni exponer el área tratada a elementos 
+          potencialmente contaminados, con esos cuidados incluso se puede
+          retornar a la actividad laboral en el mismo día del procedimiento
       - title: Cuanto dura el efecto de un tratamiento?
         content: >
           Es variable, depende de múltiples factores como la ocupación y
