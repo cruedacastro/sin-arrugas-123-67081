@@ -32,7 +32,9 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
-                <script></script>
+                <script>
+                    
+                </script>
 
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
