@@ -70,7 +70,7 @@ sections:
           corregimos inesteticismos no deseados
         actions:
           - label: Preguntas frecuentes
-            url: /faq
+            url: 'https://cmrc.com.co/bioplazmar/r/'
             style: primary
             has_icon: true
             icon: arrow-right
