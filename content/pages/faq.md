@@ -35,7 +35,7 @@ sections:
 
 
           *   [Detener o revertir flacideces con Hilos
-          Pdo](https://cmrc.com.co/bioplazmar/r/)
+          Pdo](https://cmrc.com.co/bioplazmar/producto/tratamiento-con-hilos-tensores/)
 
 
           *   [Eliminar o minimizar alteraciones de  de la pigmentación
