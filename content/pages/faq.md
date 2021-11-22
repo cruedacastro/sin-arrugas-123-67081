@@ -25,14 +25,22 @@ sections:
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
       - title: Cuales son los procedimientos mas frecuentes para lucir mas jóven?
-        content: |
-          *   Eliminar líneas dinámicas con toxina
+        content: >
+          *   [Eliminar líneas dinámicas con
+          toxina](https://cmrc.com.co/bioplazmar/r/)
 
-          *   Disminuir lineas estáticas con acido hialurónico
 
-          *   Detener o revertir flacideces con Hilos Pdo
+          *   [Disminuir lineas estáticas con acido
+          hialurónico](https://cmrc.com.co/bioplazmar/r/)
 
-          *   Eliminar o minimizar alteraciones de  de la pigmentación cutánea
+
+          *   [Detener o revertir flacideces con Hilos
+          Pdo](https://cmrc.com.co/bioplazmar/r/)
+
+
+          *   [Eliminar o minimizar alteraciones de  de la pigmentación
+          cutánea](https://cmrc.com.co/bioplazmar/r/)
+
 
           ##
       - title: Cuanto cuesta la valoración y el tratamiento?
