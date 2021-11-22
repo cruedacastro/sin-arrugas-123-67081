@@ -115,7 +115,7 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/Bioplazmar",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "facebook",
                 "icon_position": "left",
                 "new_window": false,
