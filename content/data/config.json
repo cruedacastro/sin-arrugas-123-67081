@@ -73,7 +73,7 @@
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Facebook",
