@@ -70,7 +70,7 @@ sections:
           corregimos inesteticismos no deseados
         actions:
           - label: Preguntas frecuentes
-            url: /
+            url: /faq
             style: primary
             has_icon: true
             icon: arrow-right
