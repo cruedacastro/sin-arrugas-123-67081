@@ -24,7 +24,7 @@ sections:
 
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
-      - title: lorem-ipsum
+      - title: Cuales son los procedimientos mas solicitados?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
