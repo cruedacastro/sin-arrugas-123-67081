@@ -27,7 +27,7 @@ sections:
       - title: Cuales son los procedimientos mas solicitados?
         subtitle: Acido Hialurónico
         title_align: left
-        content: |
+        content: |+
           *   Relleno fosas temporales
 
           *   Proyección pómulos
@@ -44,9 +44,6 @@ sections:
 
           *   Hidratacíón escote, rostro, manos
 
-
-
-          ![](/images/Hyaluronan.png)
         content_align: left
         actions: []
         actions_align: left
