@@ -25,7 +25,7 @@ sections:
           Si la opción es el uso de anestesia regional los tiempos de espera son
           menores.
       - title: Cuales son los procedimientos mas solicitados?
-        subtitle: lorem-ipsum
+        subtitle: Acido Hialurónico
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
