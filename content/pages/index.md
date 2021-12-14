@@ -162,10 +162,14 @@ sections:
         image: /images/257784998_1074683043296763_6570583737317872938_n.jpg
         image_position: left
         image_width: twenty-five
-      - content: |
-          Los hilos tienen un resultado muy deseable, muy recomendables
+      - content: >
+          Me siento muy satisfecha con los tratamientos que me ha realizado el
+          Dr Mauricio Rueda, llevo 3 años restaurando mi piel con terapias
+          homeopáticas, toxina botulínica e hilos tensores. Creo que luzco más
+          joven y saludable que hace 5 años
 
-          **Gloria Gómez,** Asesora
+
+          **Chaterine C, **Asesor médico
         image: /images/244452206_4743987678986879_1378863458279036660_n.jpg
         image_position: left
         image_width: twenty-five
