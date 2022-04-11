@@ -1,5 +1,5 @@
 ---
-title: Quien soy
+title: bioplazmar.com/index.php/mauricio
 seo:
   title: Quien soy
   description: >
