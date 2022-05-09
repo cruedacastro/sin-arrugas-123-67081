@@ -1,4 +1,15 @@
+[[redirects]]
+  from = "https://bioplazmar.com/index.php/mauricio/"
+  to = "https://www.bioplazmar.com/about/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+
+
+
 [build]
 publish = "out"
 command = "npm run build"
 environment = { NODE_VERSION = "12" }
+
