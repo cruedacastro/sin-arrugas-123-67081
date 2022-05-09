@@ -43,10 +43,16 @@ layout: page
 ---
 ##### ![](/images/foto.jpg)
 
-##### Carlos Mauricio Rueda 
+#### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia - México
 
-##### &#xA;Médico Cirujano de la Universidad Nacional de Colombia, en el ejercicio de la medicina convencional y en la dirección de Hospitales durante mas de 15 años (Administrador Hospitalario y Alta Gerencia U. de los Andes)
+##### Diploma  de medicina estética  del IPPC - UNAM (Mexico) 
+#### Desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.&#xA;
 
+##### Médico Cirujano de la Universidad Nacional de Colombia
+#### (Administrador Hospitalario - Alta Gerencia U. de los Andes)
+
+
+#### Trabajos Anteriores
 ##### Director de unidades renales y programas de trasplante en Hospital San Carlos, Fundación Leonor Goelkel y en Fresenius como administrador de unidades renales.
 
 ##### Master alianza en coordinación de trasplantes de células y órganos (ONT Madrid España)
@@ -55,6 +61,3 @@ layout: page
 
 ##### Director médico del Instituto de regeneración tisular en Bogotá.
 
-##### Diploma  de medicina estética  del IPPC - UNAM (Mexico) desde 2012  asesor de clínicas de Estética y regeneración tisular en Ciudad de México.&#xA;
-
-##### Coordinador y medico tratante del programa de medicina regenerativa en Bioplazmar - Colombia
