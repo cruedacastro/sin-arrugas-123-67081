@@ -1,5 +1,5 @@
 ---
-title: bioplazmar.com/index.php/mauricio
+title: Experiencia y formación
 seo:
   title: Quien soy
   description: >
