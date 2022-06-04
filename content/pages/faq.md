@@ -82,14 +82,14 @@ sections:
 
 
           *   Control líneas dinámicas tercio superior del rostro con toxina
-          botulínica x 50U = $ 800.000
+          botulínica x 50U = $ 1.000.000
 
 
           *   Manejo de líneas estáticas, surcos o reposición de volúmen con Ac
-          Hialurónico x 1 ml  = $ 1.000.000 
+          Hialurónico x 1 ml  = $ 1.500.000 
 
 
-          *   Protocolo de Hilos forte (4) facial = $ 1.200.000
+          *   Protocolo de Hilos forte (4) facial = $ 1.400.000
 
 
           *   Revitalización cutánea con Endoret® (factores de Crecimiento) = $
@@ -97,7 +97,7 @@ sections:
 
 
           *   Skin booster ( hidratación intensa) Ac Hialurónico de hidratación
-          2ml = $ 450.000 sesión
+          2ml = $ 500.000 sesión
       - title: Como puedo pagar?
         content: |
           *   Efectivo
